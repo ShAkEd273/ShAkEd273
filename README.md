@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @</Shaked
+- 👀 I’m interested in Discord, FiveM
+- 🌱 I’m currently learning lua, discord.js
+- 💞️ I’m looking to collaborate on discord.js Bots.
+- 📫 How to reach me Discord: </ShakedSh#2007
